@@ -19,6 +19,11 @@ A centralized procurement system that simplifies the entire purchasing cycle —
 
 </div>
 
+<p align="center">
+    <img src="https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?auto=format&fit=crop&w=1400&q=80"
+         alt="ProcureFlow — centralized procurement for PT XYZ Enterprise" width="100%">
+</p>
+
 ---
 
 ## ✨ Highlights
@@ -59,6 +64,22 @@ All demo accounts use password **`password`**.
 ```
 
 Each step transitions the document status and is recorded in the audit trail.
+
+---
+
+## 🖼 Preview
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80" alt="Office & Procurement" width="48%">
+  <img src="https://images.unsplash.com/photo-1586528116311-ad8ed7c50800?auto=format&fit=crop&w=900&q=80" alt="Warehouse & Logistics" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=900&q=80" alt="Corporate Workspace" width="48%">
+  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80" alt="Workspace & IT Procurement" width="48%">
+</p>
+
+> ⚠️ Images above are theme illustrations. Explore the actual interface at the [live demo](https://procureflow-wheat.vercel.app) — sign in with the demo account pre-filled on the login page (password `password`).
 
 ---
 
